@@ -1,0 +1,28 @@
+{
+  "name": "mugshot-looks-same",
+  "version": "1.0.0",
+  "description": "Looks Same adaptor for Mugshot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uberVU/mugshot-looks-same.git"
+  },
+  "keywords": [
+    "looks-same",
+    "adaptor",
+    "mugshot"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uberVU/mugshot-looks-same/issues"
+  },
+  "homepage": "https://github.com/uberVU/mugshot-looks-same#readme",
+  "dependencies": {
+    "looks-same": "^3.0.0",
+    "object-assign": "^4.1.0"
+  }
+}
