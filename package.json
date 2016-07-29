@@ -4,7 +4,8 @@
   "description": "Looks Same adaptor for Mugshot.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
   },
   "repository": {
     "type": "git",
@@ -24,5 +25,9 @@
   "dependencies": {
     "looks-same": "^3.0.0",
     "object-assign": "^4.1.0"
+  },
+  "devDependencies": {
+    "eslint": "3.0.1",
+    "eslint-plugin-ubervu": "0.1.0"
   }
 }
