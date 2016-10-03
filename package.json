@@ -2,6 +2,9 @@
   "name": "mugshot-looks-same",
   "version": "1.0.0",
   "description": "Looks Same adaptor for Mugshot.",
+  "contributors": [{
+    "name": "Adela Istrate"
+  }],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,7 +19,6 @@
     "adaptor",
     "mugshot"
   ],
-  "author": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/uberVU/mugshot-looks-same/issues"
